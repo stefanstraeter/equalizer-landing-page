@@ -16,6 +16,10 @@ Users should be able to:
 - Solution URL: [GitHub Repository](https://github.com/stefanstraeter/equalizer-landing-page)
 - Live Site URL: [Live Demo](https://stefanstraeter.github.io/equalizer-landing-page/)
 
+### Screenshot
+
+![Urban Eats Screenshot](assets/equalizer-landing-page.png)
+
 ## My process
 
 ### Built with
@@ -38,4 +42,5 @@ This project helped reinforce my understanding of:
 
 - GitHub (https://github.com/stefanstraeter)
 - Frontend (https://www.frontendmentor.io/profile/stefanstraeter)
+
 # equalizer-landing-page
